@@ -12,9 +12,21 @@ public class Aula08Arrays03 {
         dias[1][1] = 15;
         dias[1][2] = 25;
 
+        dias[2][0] = 8;
+        dias[2][1] = 18;
+        dias[2][2] = 28;
+
+
         for(int i = 0; i < dias.length; i++){
-            for(int j = 0; j < dias[0].length; j++){
+            for(int j = 0; j < dias[i].length; j++){
                 System.out.println(dias[i][j]);
+            }
+        }
+        System.out.println("-------------------------");
+
+        for(int[] arrBase:dias){
+            for(int num:arrBase){
+                System.out.println(num);
             }
         }
     }
