@@ -1,7 +1,7 @@
 package Java.javaPOO.Aintroducaoclasses.dominio;
 
 public class Estudante {
-    public String nome = "João";
+    public String nome = "Maria";
     public int idade = 18;
-    public char sexo = 'M';
+    public char sexo = 'F';
 }
