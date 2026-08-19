@@ -14,7 +14,7 @@ public class EstudanteTeste01 {
         estudante1.sexo = 'M';
 
         estudante2.nome = "Maria";
-        estudante2.idade = 16;
+        estudante2.idade = 17;
         estudante2.sexo = 'F';
 
         impressora.imprime(estudante1);

@@ -9,6 +9,6 @@ public class CalculadoraTeste03 {
         System.out.println(result);
         System.out.println(calculadora.divisao2(4, 0));
         System.out.println("-------------------");
-        calculadora.divisao3(20, 0);
+        calculadora.divisao3(20, 2);
     }
 }
