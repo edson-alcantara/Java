@@ -35,7 +35,7 @@ public class Calculadora {
 
     public void alterarnum(int num1, int num2){
         num1 = 99;
-        num2 = 33;
+        num2 = 34;
         System.out.println("Dentro do alterarnum!");
         System.out.println("Num1: " + num1);
         System.out.println("Num2: " + num2);
