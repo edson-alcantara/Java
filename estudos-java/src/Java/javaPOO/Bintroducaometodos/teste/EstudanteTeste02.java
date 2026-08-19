@@ -8,7 +8,7 @@ public class EstudanteTeste02 {
         Estudante estudante2 = new Estudante();
 
         estudante1.nome = "João";
-        estudante1.idade = 15;
+        estudante1.idade = 21;
         estudante1.sexo = 'M';
 
         estudante2.nome = "Maria";

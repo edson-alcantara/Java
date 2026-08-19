@@ -7,6 +7,6 @@ public class CalculadoraTeste05 {
         Calculadora calculadora = new Calculadora();
         int[] numeros = {1,2,3,4,5};
         calculadora.somaArray(numeros);
-        calculadora.somaVarArgs(1,2,3,4,5,6,7);
+        calculadora.somaVarArgs(1,2,3,4,5,6);
     }
 }
