@@ -8,7 +8,7 @@ public class PessoaTeste01 {
         //pessoa.nome = "Pedro";
         //pessoa.idade = 29;
         pessoa.setNome("Maria");
-        pessoa.setIdade(30);
+        pessoa.setIdade(25);
 
         pessoa.imprimir();
     }
