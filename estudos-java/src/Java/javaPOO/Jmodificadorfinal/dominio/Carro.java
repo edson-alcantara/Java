@@ -2,9 +2,11 @@ package Java.javaPOO.Jmodificadorfinal.dominio;
 
 public class Carro {
     private String nome;
-    public static final double VELOCIDADE_LIMITE;
-    static {
-        VELOCIDADE_LIMITE = 250;
+    public static final double VELOCIDADE_LIMITE = 250;
+    public final Comprador COMPRADOR = new Comprador();
+
+    public final void imprime(){
+        System.out.println("Nome: " + this.nome);
     }
 
     public String getNome(){
