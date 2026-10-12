@@ -1,4 +1,4 @@
-package estudos.introducao;
+package introducao;
 
 public class Aula04peradoresLogicos {
     public static void main(String[] args){

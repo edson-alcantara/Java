@@ -1,4 +1,4 @@
-package estudos.introducao;
+package introducao;
 
 public class Aula05OperadoresAtribuicao {
     public static void main(String[] args){
