@@ -1,4 +1,4 @@
-package estudos.introducao;
+package introducao;
 /*
 Prática
 

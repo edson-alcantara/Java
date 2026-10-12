@@ -1,4 +1,4 @@
-package estudos.introducao;
+package introducao;
 
 public class Aula01TiposPrimitivos {
     public static void main(String[] args){
