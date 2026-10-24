@@ -1,4 +1,4 @@
-package pratica;
+package pratica.teste;
 
 import java.util.Scanner;
 
