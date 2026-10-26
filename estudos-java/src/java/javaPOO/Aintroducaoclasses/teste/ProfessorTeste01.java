@@ -1,4 +1,4 @@
-package estudos.javaPOO.Aintroducaoclasses.teste;
+package javaPOO.Aintroducaoclasses.teste;
 
 import estudos.javaPOO.Aintroducaoclasses.dominio.Professor;
 
