@@ -1,6 +1,6 @@
-package estudos.javaPOO.Bintroducaometodos.teste;
+package javaPOO.Aula02introducaometodos.teste;
 
-import estudos.javaPOO.Bintroducaometodos.dominio.Pessoa;
+import javaPOO.Aula02introducaometodos.dominio.Pessoa;
 
 public class PessoaTeste01 {
     public static void main(String[] args) {

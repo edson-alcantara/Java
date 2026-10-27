@@ -1,6 +1,6 @@
-package estudos.javaPOO.Bintroducaometodos.teste;
+package javaPOO.Aula02introducaometodos.teste;
 
-import estudos.javaPOO.Bintroducaometodos.dominio.Funcionario;
+import javaPOO.Aula02introducaometodos.dominio.Funcionario;
 
 public class FuncionarioTeste01 {
     public static void main(String[] args) {

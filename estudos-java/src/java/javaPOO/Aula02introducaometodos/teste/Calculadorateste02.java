@@ -1,6 +1,6 @@
-package estudos.javaPOO.Bintroducaometodos.teste;
+package javaPOO.Aula02introducaometodos.teste;
 
-import estudos.javaPOO.Bintroducaometodos.dominio.Calculadora;
+import javaPOO.Aula02introducaometodos.dominio.Calculadora;
 
 public class Calculadorateste02 {
     public static void main(String[] args) {

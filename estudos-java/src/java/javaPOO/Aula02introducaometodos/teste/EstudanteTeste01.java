@@ -1,7 +1,7 @@
-package estudos.javaPOO.Bintroducaometodos.teste;
+package javaPOO.Aula02introducaometodos.teste;
 
-import estudos.javaPOO.Bintroducaometodos.dominio.Estudante;
-import estudos.javaPOO.Bintroducaometodos.dominio.ImprimirEstudante;
+import javaPOO.Aula02introducaometodos.dominio.Estudante;
+import javaPOO.Aula02introducaometodos.dominio.ImprimirEstudante;
 
 public class EstudanteTeste01 {
     public static void main(String[] args) {
