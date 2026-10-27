@@ -1,4 +1,4 @@
-package estudos.javaPOO.Dconstrutores.dominio;
+package javaPOO.Aula04construtores.dominio;
 
 public class Anime {
     private String nome;

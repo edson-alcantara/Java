@@ -1,7 +1,6 @@
-package estudos.javaPOO.Dconstrutores.teste;
+package javaPOO.Aula04construtores.teste;
 
-
-import estudos.javaPOO.Dconstrutores.dominio.Anime;
+import javaPOO.Aula04construtores.dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package estudos.javaPOO.Csobrecargametodos.teste;
+package javaPOO.Aula03sobrecargametodos.teste;
 
-import estudos.javaPOO.Csobrecargametodos.dominio.Anime;
+import javaPOO.Aula03sobrecargametodos.dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {

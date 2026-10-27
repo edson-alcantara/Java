@@ -1,4 +1,4 @@
-package estudos.javaPOO.Eblocosinicializacao.dominio;
+package javaPOO.Aula05blocosinicializacao.dominio;
 
 public class Anime {
     private String nome;

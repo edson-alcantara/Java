@@ -1,6 +1,6 @@
-package estudos.javaPOO.Eblocosinicializacao.teste;
+package javaPOO.Aula05blocosinicializacao.teste;
 
-import estudos.javaPOO.Eblocosinicializacao.dominio.Anime;
+import javaPOO.Aula05blocosinicializacao.dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {

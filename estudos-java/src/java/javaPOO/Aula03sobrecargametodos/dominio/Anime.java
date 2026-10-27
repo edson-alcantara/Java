@@ -1,4 +1,4 @@
-package estudos.javaPOO.Csobrecargametodos.dominio;
+package javaPOO.Aula03sobrecargametodos.dominio;
 
 public class Anime {
     private String nome;
