@@ -1,6 +1,6 @@
 package javaPOO.Aula08heranca.dominio;
 
-public class Funcionario {
+public class Funcionario extends Pessoa {
     private double salario;
 
     static{
