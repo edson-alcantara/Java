@@ -1,4 +1,4 @@
-package estudos.javaPOO.Gassociacao.dominio;
+package javaPOO.Aula07associacao.dominio;
 
 public class Escola {
     private String nome;

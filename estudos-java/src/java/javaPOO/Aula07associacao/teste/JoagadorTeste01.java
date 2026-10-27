@@ -1,6 +1,6 @@
-package estudos.javaPOO.Gassociacao.teste;
+package javaPOO.Aula07associacao.teste;
 
-import estudos.javaPOO.Gassociacao.dominio.Jogador;
+import javaPOO.Aula07associacao.dominio.Jogador;
 
 public class JoagadorTeste01 {
     public static void main(String[] args) {

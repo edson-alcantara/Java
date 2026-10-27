@@ -1,11 +1,11 @@
-package estudos.javaPOO.Gassociacao.teste;
+package javaPOO.Aula07associacao.teste;
 
-import estudos.javaPOO.Gassociacao.dominio.Aluno;
-import estudos.javaPOO.Gassociacao.dominio.Local;
-import estudos.javaPOO.Gassociacao.dominio.Professor;
-import estudos.javaPOO.Gassociacao.dominio.Seminario;
+import javaPOO.Aula07associacao.dominio.Aluno;
+import javaPOO.Aula07associacao.dominio.Local;
+import javaPOO.Aula07associacao.dominio.Professor;
+import javaPOO.Aula07associacao.dominio.Seminario;
 
-public class AssociacaoTeste {
+public class AssociacaoTeste01 {
     public static void main(String[] args) {
         Local local = new Local("Rua das Rosas");
         Aluno aluno = new Aluno("João", 17);

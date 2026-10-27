@@ -1,4 +1,4 @@
-package estudos.javaPOO.Gassociacao.teste;
+package javaPOO.Aula07associacao.teste;
 
 import java.util.Scanner;
 

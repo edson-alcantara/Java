@@ -1,6 +1,6 @@
-package estudos.javaPOO.Fmodificadoresestatico.teste;
+package javaPOO.Aula06modificadoresestatico.teste;
 
-import estudos.javaPOO.Fmodificadoresestatico.dominio.Anime;
+import javaPOO.Aula06modificadoresestatico.dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {
@@ -8,5 +8,4 @@ public class AnimeTeste01 {
         Anime anime2 = new Anime();
         Anime anime3 = new Anime();
     }
-
 }

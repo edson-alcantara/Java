@@ -1,6 +1,6 @@
-package estudos.javaPOO.Fmodificadoresestatico.teste;
+package javaPOO.Aula06modificadoresestatico.teste;
 
-import estudos.javaPOO.Fmodificadoresestatico.dominio.Carro;
+import javaPOO.Aula06modificadoresestatico.dominio.Carro;
 
 public class CarroTeste01 {
     public static void main(String[] args) {

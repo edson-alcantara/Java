@@ -1,4 +1,4 @@
-package estudos.javaPOO.Fmodificadoresestatico.dominio;
+package javaPOO.Aula06modificadoresestatico.dominio;
 
 public class Anime {
     private String nome;

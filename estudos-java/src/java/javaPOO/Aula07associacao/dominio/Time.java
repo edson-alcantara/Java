@@ -1,4 +1,4 @@
-package estudos.javaPOO.Gassociacao.dominio;
+package javaPOO.Aula07associacao.dominio;
 
 public class Time {
     private String nome;
