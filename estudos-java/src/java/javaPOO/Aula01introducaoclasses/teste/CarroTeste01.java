@@ -1,6 +1,6 @@
-package estudos.javaPOO.Aintroducaoclasses.teste;
+package javaPOO.Aula01introducaoclasses.teste;
 
-import estudos.javaPOO.Aintroducaoclasses.dominio.Carro;
+import javaPOO.Aula01introducaoclasses.dominio.Carro;
 
 public class CarroTeste01 {
     public static void main(String[] args) {

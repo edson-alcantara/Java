@@ -1,4 +1,4 @@
-package javaPOO.Aintroducaoclasses.dominio;
+package javaPOO.Aula01introducaoclasses.dominio;
 
 public class Estudante {
     public String nome = "Maria";

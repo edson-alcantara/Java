@@ -1,6 +1,6 @@
-package javaPOO.Aintroducaoclasses.teste;
+package javaPOO.Aula01introducaoclasses.teste;
 
-import estudos.javaPOO.Aintroducaoclasses.dominio.Professor;
+import javaPOO.Aula01introducaoclasses.dominio.Professor;
 
 public class ProfessorTeste01 {
     public static void main(String[] args) {
@@ -11,4 +11,5 @@ public class ProfessorTeste01 {
 
         System.out.println("Nome:" + professor.nome + " " + "Idade:" + professor.idade + " " + "Sexo:" + professor.sexo);
     }
+
 }
