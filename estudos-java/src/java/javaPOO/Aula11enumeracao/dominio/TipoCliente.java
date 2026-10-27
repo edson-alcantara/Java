@@ -1,4 +1,4 @@
-package java.javaPOO.Kenumeracao.dominio;
+package javaPOO.Aula11enumeracao.dominio;
 
 public enum TipoCliente {
     PESSOA_FISICA(1, "PF"),

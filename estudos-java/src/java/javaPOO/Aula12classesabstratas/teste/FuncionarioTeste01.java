@@ -1,7 +1,7 @@
-package java.javaPOO.Lclassesabstratas.teste;
+package javaPOO.Aula12classesabstratas.teste;
 
-import java.javaPOO.Lclassesabstratas.dominio.Desenvolvedor;
-import java.javaPOO.Lclassesabstratas.dominio.Gerente;
+import javaPOO.Aula12classesabstratas.dominio.Desenvolvedor;
+import javaPOO.Aula12classesabstratas.dominio.Gerente;
 
 public class FuncionarioTeste01 {
     public static void main(String[] args) {

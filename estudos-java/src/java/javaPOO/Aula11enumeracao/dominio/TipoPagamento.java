@@ -1,6 +1,6 @@
-package java.javaPOO.Kenumeracao.dominio;
+package javaPOO.Aula11enumeracao.dominio;
 
-public enum TipoPagamento{
+public enum TipoPagamento {
     DEBITO{
         @Override
         public double calcularDesconto(double valor) {

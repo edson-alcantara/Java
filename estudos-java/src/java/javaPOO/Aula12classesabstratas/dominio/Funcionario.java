@@ -1,4 +1,4 @@
-package java.javaPOO.Lclassesabstratas.dominio;
+package javaPOO.Aula12classesabstratas.dominio;
 
 public abstract class Funcionario extends Pessoa {
     protected String nome;
@@ -16,5 +16,4 @@ public abstract class Funcionario extends Pessoa {
     }
 
     public abstract void calculaBonus();
-
 }

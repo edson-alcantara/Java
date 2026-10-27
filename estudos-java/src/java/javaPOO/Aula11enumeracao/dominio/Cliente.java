@@ -1,4 +1,4 @@
-package java.javaPOO.Kenumeracao.dominio;
+package javaPOO.Aula11enumeracao.dominio;
 
 public class Cliente {
     private String nome;

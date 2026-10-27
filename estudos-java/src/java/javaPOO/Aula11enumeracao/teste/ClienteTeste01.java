@@ -1,8 +1,8 @@
-package java.javaPOO.Kenumeracao.teste;
+package javaPOO.Aula11enumeracao.teste;
 
-import java.javaPOO.Kenumeracao.dominio.Cliente;
-import java.javaPOO.Kenumeracao.dominio.TipoCliente;
-import java.javaPOO.Kenumeracao.dominio.TipoPagamento;
+import javaPOO.Aula11enumeracao.dominio.Cliente;
+import javaPOO.Aula11enumeracao.dominio.TipoCliente;
+import javaPOO.Aula11enumeracao.dominio.TipoPagamento;
 
 public class ClienteTeste01 {
     public static void main(String[] args) {
