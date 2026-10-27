@@ -1,4 +1,4 @@
-package estudos.javaPOO.Bintroducaometodos.dominio;
+package javaPOO.Aula02introducaometodos.dominio;
 
 public class Calculadora {
     public void somar(){
