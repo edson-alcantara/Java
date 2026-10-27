@@ -1,9 +1,9 @@
-package java.javaPOO.Npolimorfismo.teste;
+package javaPOO.Aula14polimorfismo.teste;
 
-import java.javaPOO.Npolimorfismo.dominio.Computador;
-import java.javaPOO.Npolimorfismo.dominio.Televisao;
-import java.javaPOO.Npolimorfismo.dominio.Tomate;
-import java.javaPOO.Npolimorfismo.servico.CalculadoraTaxa;
+import javaPOO.Aula14polimorfismo.dominio.Computador;
+import javaPOO.Aula14polimorfismo.dominio.Televisao;
+import javaPOO.Aula14polimorfismo.dominio.Tomate;
+import javaPOO.Aula14polimorfismo.servico.CalculadoraTaxa;
 
 public class ProdutoTeste01 {
     public static void main(String[] args) {

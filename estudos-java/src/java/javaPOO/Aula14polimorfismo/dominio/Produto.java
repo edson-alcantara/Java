@@ -1,4 +1,4 @@
-package java.javaPOO.Npolimorfismo.dominio;
+package javaPOO.Aula14polimorfismo.dominio;
 
 public abstract class Produto implements Taxavel {
     protected String nome;
@@ -16,6 +16,4 @@ public abstract class Produto implements Taxavel {
     public double getValor(){
         return valor;
     }
-
-
 }

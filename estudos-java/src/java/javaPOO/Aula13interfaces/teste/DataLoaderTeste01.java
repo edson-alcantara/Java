@@ -1,9 +1,8 @@
-package java.javaPOO.Minterfaces.teste;
+package javaPOO.Aula13interfaces.teste;
 
-
-import java.javaPOO.Minterfaces.dominio.DataBaseLoader;
-import java.javaPOO.Minterfaces.dominio.DataLoader;
-import java.javaPOO.Minterfaces.dominio.FileLoader;
+import javaPOO.Aula13interfaces.dominio.DataBaseLoader;
+import javaPOO.Aula13interfaces.dominio.DataLoader;
+import javaPOO.Aula13interfaces.dominio.FileLoader;
 
 public class DataLoaderTeste01 {
     public static void main(String[] args) {

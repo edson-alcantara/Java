@@ -1,4 +1,4 @@
-package java.javaPOO.Minterfaces.dominio;
+package javaPOO.Aula13interfaces.dominio;
 
 public class FileLoader implements DataLoader, DataRemove {
     @Override

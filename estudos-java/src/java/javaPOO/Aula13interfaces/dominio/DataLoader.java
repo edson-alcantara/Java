@@ -1,4 +1,4 @@
-package java.javaPOO.Minterfaces.dominio;
+package javaPOO.Aula13interfaces.dominio;
 
 public interface DataLoader {
     public static final int MAX_DATA_SIZE = 10;

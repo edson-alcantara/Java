@@ -1,4 +1,4 @@
-package java.javaPOO.Npolimorfismo.dominio;
+package javaPOO.Aula14polimorfismo.dominio;
 
 public interface Taxavel {
     public abstract double calcularTax();

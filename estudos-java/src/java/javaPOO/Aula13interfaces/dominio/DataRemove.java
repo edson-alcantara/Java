@@ -1,4 +1,4 @@
-package java.javaPOO.Minterfaces.dominio;
+package javaPOO.Aula13interfaces.dominio;
 
 public interface DataRemove {
     public abstract void remove();

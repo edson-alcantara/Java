@@ -1,4 +1,4 @@
-package java.javaPOO.Npolimorfismo.dominio;
+package javaPOO.Aula14polimorfismo.dominio;
 
 public class Computador extends Produto {
     public static final double TAXA_POR_CENTO = 0.21;
