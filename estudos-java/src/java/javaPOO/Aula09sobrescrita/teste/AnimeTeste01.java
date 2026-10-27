@@ -1,6 +1,6 @@
-package java.javaPOO.Isobrescrita.teste;
+package javaPOO.Aula09sobrescrita.teste;
 
-import java.javaPOO.Isobrescrita.dominio.Anime;
+import javaPOO.Aula09sobrescrita.dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {

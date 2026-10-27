@@ -1,6 +1,6 @@
-package java.javaPOO.Hheranca.teste;
+package javaPOO.Aula08heranca.teste;
 
-import java.javaPOO.Hheranca.dominio.Funcionario;
+import javaPOO.Aula08heranca.dominio.Funcionario;
 
 public class HerancaTeste02 {
     public static void main(String[] args) {

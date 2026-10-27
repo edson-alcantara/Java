@@ -1,4 +1,4 @@
-package java.javaPOO.Hheranca.dominio;
+package javaPOO.Aula08heranca.dominio;
 
 public class Pessoa {
     protected String nome;

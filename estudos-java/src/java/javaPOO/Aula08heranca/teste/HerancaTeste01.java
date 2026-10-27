@@ -1,8 +1,8 @@
-package java.javaPOO.Hheranca.teste;
+package javaPOO.Aula08heranca.teste;
 
-import java.javaPOO.Hheranca.dominio.Endereco;
-import java.javaPOO.Hheranca.dominio.Funcionario;
-import java.javaPOO.Hheranca.dominio.Pessoa;
+import javaPOO.Aula08heranca.dominio.Endereco;
+import javaPOO.Aula08heranca.dominio.Funcionario;
+import javaPOO.Aula08heranca.dominio.Pessoa;
 
 public class HerancaTeste01 {
     public static void main(String[] args) {

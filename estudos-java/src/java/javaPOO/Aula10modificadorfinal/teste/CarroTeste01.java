@@ -1,7 +1,7 @@
-package java.javaPOO.Jmodificadorfinal.teste;
+package javaPOO.Aula10modificadorfinal.teste;
 
-import java.javaPOO.Jmodificadorfinal.dominio.Carro;
-import java.javaPOO.Jmodificadorfinal.dominio.Ferrari;
+import javaPOO.Aula10modificadorfinal.dominio.Carro;
+import javaPOO.Aula10modificadorfinal.dominio.Ferrari;
 
 public class CarroTeste01 {
     public static void main(String[] args) {

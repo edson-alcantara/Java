@@ -1,6 +1,6 @@
-package java.javaPOO.Isobrescrita.dominio;
+package javaPOO.Aula09sobrescrita.dominio;
 
-public class Anime extends Object {
+public class Anime {
     private String nome;
 
     @Override
@@ -19,4 +19,5 @@ public class Anime extends Object {
     public void setNome(String nome){
         this.nome = nome;
     }
+
 }

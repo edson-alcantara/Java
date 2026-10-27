@@ -1,4 +1,4 @@
-package java.javaPOO.Jmodificadorfinal.dominio;
+package javaPOO.Aula10modificadorfinal.dominio;
 
 public class Carro {
     private String nome;
