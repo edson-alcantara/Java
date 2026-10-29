@@ -7,15 +7,26 @@ public class Caneta {
     public int carga;
     public boolean tampada;
 
-    void rabiscar(){
-
+    public void status(){
+        System.out.println("Modelo: " + this.modelo);
+        System.out.println("Cor: " + this.cor);
+        System.out.printf("Ponta: %.2f\n", this.ponta);
+        System.out.println("Tampada: " + this.tampada);
     }
 
-    void tampar(){
-
+    public void rabiscar(){
+        if(this.tampada == true){
+            System.out.println("Caneta Tampada");
+        }else{
+            System.out.println("Pode rabiscar");
+        }
     }
 
-    void destampar(){
+    public void tampar(){
+        this.tampada = true;
+    }
 
+    public void destampar(){
+        this.tampada = false;
     }
 }
