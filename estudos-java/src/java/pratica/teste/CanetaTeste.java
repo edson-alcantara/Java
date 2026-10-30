@@ -7,7 +7,7 @@ public class CanetaTeste {
         Caneta c1 = new Caneta();
         c1.modelo = "Bic";
         c1.cor = "azul";
-        c1.ponta = 0.5;
+        c1.setPonta(0.5);
         c1.tampada = false;
 
         c1.status();
@@ -15,5 +15,7 @@ public class CanetaTeste {
         c1.tampar();
         System.out.println("-------------------");
         c1.status();
+        System.out.println("--------------");
+        System.out.printf("Ponta: " + c1.getPonta());
     }
 }

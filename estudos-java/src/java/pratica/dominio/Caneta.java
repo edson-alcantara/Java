@@ -3,9 +3,19 @@ package pratica.dominio;
 public class Caneta {
     public String modelo;
     public String cor;
-    public Double ponta;
+    private Double ponta;
     public int carga;
     public boolean tampada;
+
+    
+
+    public Double getPonta() {
+        return this.ponta;
+    }
+
+    public void setPonta(Double ponta) {
+        this.ponta = ponta;
+    }
 
     public void status(){
         System.out.println("Modelo: " + this.modelo);
