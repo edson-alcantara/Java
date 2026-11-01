@@ -7,7 +7,7 @@ public class Caneta {
     public int carga;
     public boolean tampada;
 
-    
+
 
     public Double getPonta() {
         return this.ponta;
