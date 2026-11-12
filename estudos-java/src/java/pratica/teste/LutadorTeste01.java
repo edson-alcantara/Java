@@ -27,7 +27,7 @@ public class LutadorTeste01 {
 
 
         Combate UEC01 = new Combate();
-        UEC01.marcarLuta(l[0], l[1]);
+        UEC01.marcarLuta(l[1], l[1]);
         UEC01.lutar();
         l[0].status();
         l[1].status();
