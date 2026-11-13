@@ -11,6 +11,9 @@ public class Pessoa {
         this.sexo = sexo;
     }
 
+    public Pessoa() {
+    }
+
     public String getSexo() {
         return sexo;
     }
@@ -37,5 +40,14 @@ public class Pessoa {
 
     public void fazerAniversario(){
         this.idade++;
+    }
+
+    @Override
+    public String toString() {
+        return "Pessoa{" +
+                "nome= '" + nome + '\'' +
+                ", idade= " + idade +
+                ", sexo= '" + sexo + '\'' +
+                '}';
     }
 }

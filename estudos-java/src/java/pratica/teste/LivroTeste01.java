@@ -3,7 +3,7 @@ package pratica.teste;
 import pratica.dominio.Livro;
 import pratica.dominio.Pessoa;
 
-public class ProjetoLivro {
+public class LivroTeste01 {
     public static void main(String[] args) {
         Pessoa[] p = new Pessoa[2];
         Livro[] l = new Livro[3];
