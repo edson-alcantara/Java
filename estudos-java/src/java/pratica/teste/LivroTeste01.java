@@ -8,8 +8,15 @@ public class LivroTeste01 {
         Pessoa[] p = new Pessoa[2];
         Livro[] l = new Livro[3];
 
-        p[0] = new Pessoa("Pedro", 22, "M");
-        p[1] = new Pessoa("Maria", 25, "F");
+        p[0] = new Pessoa();
+        p[1] = new Pessoa();
+
+        p[0].setNome("João");
+        p[1].setNome("Maria");
+        p[0].setIdade(23);
+        p[1].setIdade(25);
+        p[0].setSexo("M");
+        p[1].setSexo("F");
 
         l[0] = new Livro("Java", "João da Silva", 300, p[0]);
         l[1] = new Livro("POO", "Maria Eduarda", 500, p[1]);
