@@ -1,10 +1,10 @@
 package pratica.teste;
 
-import pratica.dominio.Caneta;
+import pratica.dominio.Bolsista;
 
 public class CanetaTeste {
     public static void main(String[] args){
-        Caneta c1 = new Caneta();
+        Bolsista.Caneta c1 = new Bolsista.Caneta();
         c1.modelo = "Bic";
         c1.cor = "azul";
         c1.setPonta(0.5);
