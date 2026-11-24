@@ -17,6 +17,5 @@ public class AnimaisTeste01 {
 
         c.locomover();
         ca.locomover();
-        tar.locomover();
     }
 }
