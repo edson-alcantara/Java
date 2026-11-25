@@ -1,8 +1,8 @@
 package pratica.teste;
 
-import pratica.Animais.Cachorro;
-import pratica.Animais.Lobo;
-import pratica.Animais.Mamifero;
+import pratica.animais.Cachorro;
+import pratica.animais.Lobo;
+import pratica.animais.Mamifero;
 
 public class AnimaisTeste02 {
     public static void main(String[] args){

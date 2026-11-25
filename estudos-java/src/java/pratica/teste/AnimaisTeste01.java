@@ -1,6 +1,6 @@
 package pratica.teste;
 
-import pratica.Animais.*;
+import pratica.animais.*;
 
 public class AnimaisTeste01 {
     public static void main(String[] args) {

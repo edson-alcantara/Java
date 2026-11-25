@@ -1,0 +1,17 @@
+package javaPOO.aula10modificadorfinal.teste;
+
+import javaPOO.aula10modificadorfinal.dominio.Carro;
+import javaPOO.aula10modificadorfinal.dominio.Ferrari;
+
+public class CarroTeste01 {
+    public static void main(String[] args) {
+        Carro carro = new Carro();
+        System.out.println(Carro.VELOCIDADE_LIMITE);
+        System.out.println(carro.COMPRADOR);
+        carro.COMPRADOR.setNome("João");
+        System.out.println(carro.COMPRADOR);
+        Ferrari ferrari = new Ferrari();
+        ferrari.setNome("Ferrari");
+        ferrari.imprime();
+    }
+}
